@@ -1,6 +1,8 @@
 # Discord-Avatar-Rotator
 Bot to automatically change your Discord profile picture after every x time interval.
 
+Please note that using bots on user accounts is against the TOS of Discord and may get your account terminated.
+
 Configuration:
 
 1. Enter your user or bot token in the token file.
