@@ -1,0 +1,13 @@
+c:\users\junis\source\repos\Discord Avatar Rotator\Discord Avatar Rotator\bin\Debug\Discord Avatar Rotator.exe.config
+c:\users\junis\source\repos\Discord Avatar Rotator\Discord Avatar Rotator\bin\Debug\Discord Avatar Rotator.exe
+c:\users\junis\source\repos\Discord Avatar Rotator\Discord Avatar Rotator\bin\Debug\Discord Avatar Rotator.pdb
+c:\users\junis\source\repos\Discord Avatar Rotator\Discord Avatar Rotator\bin\Debug\DSharpPlus.CommandsNext.dll
+c:\users\junis\source\repos\Discord Avatar Rotator\Discord Avatar Rotator\bin\Debug\DSharpPlus.dll
+c:\users\junis\source\repos\Discord Avatar Rotator\Discord Avatar Rotator\bin\Debug\Newtonsoft.Json.dll
+c:\users\junis\source\repos\Discord Avatar Rotator\Discord Avatar Rotator\bin\Debug\DSharpPlus.xml
+c:\users\junis\source\repos\Discord Avatar Rotator\Discord Avatar Rotator\bin\Debug\DSharpPlus.CommandsNext.xml
+c:\users\junis\source\repos\Discord Avatar Rotator\Discord Avatar Rotator\bin\Debug\Newtonsoft.Json.xml
+c:\users\junis\source\repos\Discord Avatar Rotator\Discord Avatar Rotator\obj\Debug\Discord Avatar Rotator.csprojResolveAssemblyReference.cache
+c:\users\junis\source\repos\Discord Avatar Rotator\Discord Avatar Rotator\obj\Debug\Discord Avatar Rotator.csproj.CoreCompileInputs.cache
+c:\users\junis\source\repos\Discord Avatar Rotator\Discord Avatar Rotator\obj\Debug\Discord Avatar Rotator.exe
+c:\users\junis\source\repos\Discord Avatar Rotator\Discord Avatar Rotator\obj\Debug\Discord Avatar Rotator.pdb
