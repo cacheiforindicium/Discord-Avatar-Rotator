@@ -2,6 +2,7 @@
 Bot to automatically change your Discord profile picture after every x time interval.
 
 Please note that using bots on user accounts is against the TOS of Discord and may get your account terminated.
+Although I've built the application to be ran on a user account, as it'd seem more logical to, you could simply run it on a bot account by modifying the token type to bot.
 
 Configuration:
 
