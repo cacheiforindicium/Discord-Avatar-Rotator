@@ -11,4 +11,4 @@ Configuration:
 3. Run the program, and specify all settings. This will only be required on your first run. After that, all settings will be stored.
 
 That's pretty much it.
-Please note that, when you select an interval lower than 10 minutes, your account may get rate-limited, meaning that you will not be able to change your avatar for a determined period of time.
+Please note that, when you select an interval lower than 5 minutes, your account may get rate-limited, meaning that you will not be able to change your avatar for a determined period of time.
